@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingPyramid", "TestingPyramid\TestingPyramid.csproj", "{A66B236E-E32D-43FE-8FD1-AAC8764DEFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingPyramid.Test", "TestingPyramid.Test\TestingPyramid.Test.csproj", "{02A3D9A1-13BA-446F-A8AA-6ADE82B64324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66B236E-E32D-43FE-8FD1-AAC8764DEFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66B236E-E32D-43FE-8FD1-AAC8764DEFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66B236E-E32D-43FE-8FD1-AAC8764DEFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66B236E-E32D-43FE-8FD1-AAC8764DEFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A3D9A1-13BA-446F-A8AA-6ADE82B64324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A3D9A1-13BA-446F-A8AA-6ADE82B64324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A3D9A1-13BA-446F-A8AA-6ADE82B64324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A3D9A1-13BA-446F-A8AA-6ADE82B64324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
